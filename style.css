@@ -1,11 +1,8 @@
 body{
     color: #2D2D2D;
-    font-family: sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 100;
-}
-
-.titolArticle{
-    color: #345e40;
+    font-optical-sizing: auto; 
 }
 
 .titolarticle{
@@ -15,8 +12,7 @@ body{
     padding-top: 10px; 
     padding-bottom: 10px;    
 }
-
-.texto{
+.citas{
     background-color: #F7F2DB; 
     border: 2px solid #97a48388; 
     border-radius: 10px; 
